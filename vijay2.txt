@@ -1,0 +1,8 @@
+1.open the browser enter the url
+2.get into the homepage
+3.after given to correct integer value
+4.after click on the calculate
+5.get in the result
+6.if you give you wrong value
+7.you are not getting answer
+    

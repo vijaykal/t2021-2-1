@@ -1,0 +1,9 @@
+1.open the browser enter the url
+2.given to the corect login details
+3.Given to correct email id and password
+4.after login the website
+5.get into the page
+6.if you  give wrong details page given be error like
+7.select the image file only taken the correct size
+8.if you give more size didnt take the pic
+9.
